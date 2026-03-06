@@ -1,0 +1,16 @@
+.mart {
+
+}
+.btn {
+    background-color: green;
+}
+
+@keyframes mart{ 
+    50%{
+       color: blue;
+    }
+    100%{
+        color:red ;
+    }
+}
+
